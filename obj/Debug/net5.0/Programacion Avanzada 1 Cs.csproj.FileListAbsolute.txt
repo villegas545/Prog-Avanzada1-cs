@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\bin\Debug\net5.0\Programacion Avanzada 1 Cs.exe
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\bin\Debug\net5.0\Programacion Avanzada 1 Cs.deps.json
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\bin\Debug\net5.0\Programacion Avanzada 1 Cs.runtimeconfig.json
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\bin\Debug\net5.0\Programacion Avanzada 1 Cs.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\bin\Debug\net5.0\Programacion Avanzada 1 Cs.dll
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\bin\Debug\net5.0\Programacion Avanzada 1 Cs.pdb
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.dll
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\refint\Programacion Avanzada 1 Cs.dll
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.pdb
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\Programacion Avanzada 1 Cs.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Programacion Avanzada 1 Cs\Programacion Avanzada 1 Cs\obj\Debug\net5.0\ref\Programacion Avanzada 1 Cs.dll
